@@ -2,13 +2,11 @@
 
 ### Live Online Version
 
-We are running a [live online version](http://stat-nlp-book.wolfe.ml:9000/template/statnlpbook/04_compgi19/02_overview) of the book. 
-Due to security reasons the content is not editable. If you want to play with the code and execute it you need to
-install the book locally, as described below.
+Live online version is not available anymore.
 
 ### Setup and run the book
 
-Before running any of the following comands, make sure you have [all the prerequisites installed](https://github.com/uclmr/stat-nlp-book/wiki/Installation-of-prerequisites).
+Before running any of the following comands, make sure you have [all the prerequisites installed](https://github.com/uclmr/stat-nlp-book-scala/wiki/Installation-of-prerequisites).
 
 After installing prerequisites, install the following libraries to a local repository by running the following:
 
@@ -61,14 +59,3 @@ To import the stat-nlp-book project to IntelliJ:
 2. Select *Import Project* and select the stat-nlp-book directory
 3. Select *Import project from external module* and SBT under it, and click on OK.
 4. In the next window select auto-import and continue with importing.
-
-## Contact your TAs
-
-If you have a question that is not specific to you but could be interesting for other students as well, please post it in the [discussion forum](https://moodle.ucl.ac.uk/mod/forum/view.php?id=1402119). Otherwise, contact us directly.
-
-- [George Spithourakis](mailto:g.spithourakis.12@ucl.ac.uk)
-- [Johannes Welbl](mailto:johannes.welbl.14@ucl.ac.uk)
-- [Tim Rocktäschel](mailto:t.rocktaschel@cs.ucl.ac.uk)
-- [Matko Bošnjak](mailto:matko.bosnjak@cs.ucl.ac.uk)
-
-When contacting us, please send a single e-mail to all four of us so we can coordinate the response.
