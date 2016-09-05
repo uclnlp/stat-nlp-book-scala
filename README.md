@@ -2,7 +2,7 @@
 
 ### Live Online Version
 
-Live online version is not available anymore. Static version of the book is available [here](uclmr.github.io/stat-nlp-book-scala).
+Live online version is not available anymore. Static version of the book is available [here](http://uclmr.github.io/stat-nlp-book-scala).
 
 ### Setup and run the book
 
