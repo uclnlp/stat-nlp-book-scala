@@ -18,7 +18,7 @@ After installing prerequisites, install the following libraries to a local repos
 Clone the repository (1), 
 Initialize sub-modules (wolfe & moro) (2), compile the project (3) and compile wolfe, and publish it to your local ivy repository (4), setup the project specific configuration file (5) and run moro (6).
 
-1. `git clone https://github.com/uclmr/stat-nlp-book.git; cd stat-nlp-book`
+1. `git clone https://github.com/uclmr/stat-nlp-book-scala.git; cd stat-nlp-book-scala`
 2. `git submodule update --init --recursive`
 3. `sbt compile`
 4. `cd wolfe; sbt compile; sbt publish-local; cd ..`
